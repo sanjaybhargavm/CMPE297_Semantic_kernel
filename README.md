@@ -9,7 +9,7 @@ deployed app:
 https://test-fchc7ianc-sanjays-projects-2b194959.vercel.app/
 
 demo:
-https://www.youtube.com/watch?v=yWuV5FUXUs4
+https://youtu.be/GbSYO6UWBqo
 
 
 medium article: 
@@ -23,7 +23,7 @@ code:
 https://drive.google.com/file/d/1DsE7VzqQX22SnwSPRdrLtc0hHq4ozvEG/view?usp=sharing
 
 demo:
-https://www.youtube.com/watch?v=4lMj1_XlKws
+https://youtu.be/wutXz_0tEEs
 
 medium article:
 https://medium.com/@sanjaybhargav.madamanchi/building-a-copilot-chat-using-semantic-kernel-framework-end2end-with-python-2d649f2e6177
